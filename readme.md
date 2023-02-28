@@ -1,4 +1,6 @@
 # Schnorr NIZK simple
+hash實現非交互式schnorr
+可透過另一個solidity rep 進行智能合約驗證 
 
 ## How to work for code
 two type for command
